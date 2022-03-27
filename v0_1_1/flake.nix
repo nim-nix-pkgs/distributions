@@ -11,6 +11,7 @@
   inputs.src-distributions-v0_1_1.ref   = "refs/tags/v0.1.1";
   inputs.src-distributions-v0_1_1.owner = "ayman-albaz";
   inputs.src-distributions-v0_1_1.repo  = "distributions";
+  inputs.src-distributions-v0_1_1.dir   = "";
   inputs.src-distributions-v0_1_1.type  = "github";
   
   inputs."special_functions".owner = "nim-nix-pkgs";

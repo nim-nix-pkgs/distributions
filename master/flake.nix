@@ -11,6 +11,7 @@
   inputs.src-distributions-master.ref   = "refs/heads/master";
   inputs.src-distributions-master.owner = "ayman-albaz";
   inputs.src-distributions-master.repo  = "distributions";
+  inputs.src-distributions-master.dir   = "";
   inputs.src-distributions-master.type  = "github";
   
   inputs."special_functions".owner = "nim-nix-pkgs";

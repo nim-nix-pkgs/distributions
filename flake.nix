@@ -7,6 +7,30 @@
   inputs.flakeNimbleLib.type  = "github";
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
+  inputs."distributions-master".dir   = "master";
+  inputs."distributions-master".owner = "nim-nix-pkgs";
+  inputs."distributions-master".ref   = "master";
+  inputs."distributions-master".repo  = "distributions";
+  inputs."distributions-master".type  = "github";
+  inputs."distributions-master".inputs.nixpkgs.follows = "nixpkgs";
+  inputs."distributions-master".inputs.flakeNimbleLib.follows = "flakeNimbleLib";
+  
+  inputs."distributions-v0_1_0".dir   = "v0_1_0";
+  inputs."distributions-v0_1_0".owner = "nim-nix-pkgs";
+  inputs."distributions-v0_1_0".ref   = "master";
+  inputs."distributions-v0_1_0".repo  = "distributions";
+  inputs."distributions-v0_1_0".type  = "github";
+  inputs."distributions-v0_1_0".inputs.nixpkgs.follows = "nixpkgs";
+  inputs."distributions-v0_1_0".inputs.flakeNimbleLib.follows = "flakeNimbleLib";
+  
+  inputs."distributions-v0_1_1".dir   = "v0_1_1";
+  inputs."distributions-v0_1_1".owner = "nim-nix-pkgs";
+  inputs."distributions-v0_1_1".ref   = "master";
+  inputs."distributions-v0_1_1".repo  = "distributions";
+  inputs."distributions-v0_1_1".type  = "github";
+  inputs."distributions-v0_1_1".inputs.nixpkgs.follows = "nixpkgs";
+  inputs."distributions-v0_1_1".inputs.flakeNimbleLib.follows = "flakeNimbleLib";
+  
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@inputs:
   let 
     lib  = flakeNimbleLib.lib;

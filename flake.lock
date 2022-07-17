@@ -13,11 +13,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1658015249,
-        "narHash": "sha256-PdVuyeXBsAral8r7Ushjkz6JYvmZwyiSOr1CwHQSX00=",
+        "lastModified": 1658018794,
+        "narHash": "sha256-/GrBosc9J8V/e1gt4B42Nxm4aHN8MSx+zBxHsDyjNfk=",
         "owner": "nim-nix-pkgs",
         "repo": "distributions",
-        "rev": "09124bdb9a5178c205b21020fa08eb16a730b755",
+        "rev": "6af7fb240325101fb5add07d893d7fe2f15528ba",
         "type": "github"
       },
       "original": {
@@ -41,11 +41,11 @@
       },
       "locked": {
         "dir": "v0_1_0",
-        "lastModified": 1658015249,
-        "narHash": "sha256-PdVuyeXBsAral8r7Ushjkz6JYvmZwyiSOr1CwHQSX00=",
+        "lastModified": 1658018794,
+        "narHash": "sha256-/GrBosc9J8V/e1gt4B42Nxm4aHN8MSx+zBxHsDyjNfk=",
         "owner": "nim-nix-pkgs",
         "repo": "distributions",
-        "rev": "09124bdb9a5178c205b21020fa08eb16a730b755",
+        "rev": "6af7fb240325101fb5add07d893d7fe2f15528ba",
         "type": "github"
       },
       "original": {
@@ -69,11 +69,11 @@
       },
       "locked": {
         "dir": "v0_1_1",
-        "lastModified": 1658015249,
-        "narHash": "sha256-PdVuyeXBsAral8r7Ushjkz6JYvmZwyiSOr1CwHQSX00=",
+        "lastModified": 1658018794,
+        "narHash": "sha256-/GrBosc9J8V/e1gt4B42Nxm4aHN8MSx+zBxHsDyjNfk=",
         "owner": "nim-nix-pkgs",
         "repo": "distributions",
-        "rev": "09124bdb9a5178c205b21020fa08eb16a730b755",
+        "rev": "6af7fb240325101fb5add07d893d7fe2f15528ba",
         "type": "github"
       },
       "original": {
@@ -97,11 +97,11 @@
       },
       "locked": {
         "dir": "v0_2_0",
-        "lastModified": 1658015249,
-        "narHash": "sha256-PdVuyeXBsAral8r7Ushjkz6JYvmZwyiSOr1CwHQSX00=",
+        "lastModified": 1658018794,
+        "narHash": "sha256-/GrBosc9J8V/e1gt4B42Nxm4aHN8MSx+zBxHsDyjNfk=",
         "owner": "nim-nix-pkgs",
         "repo": "distributions",
-        "rev": "09124bdb9a5178c205b21020fa08eb16a730b755",
+        "rev": "6af7fb240325101fb5add07d893d7fe2f15528ba",
         "type": "github"
       },
       "original": {
@@ -274,11 +274,11 @@
     "src-distributions-master": {
       "flake": false,
       "locked": {
-        "lastModified": 1623770830,
-        "narHash": "sha256-9AqjjV9jAgXgPhxhWmgdmMqEtJftmZqHGNjOfBZyzq8=",
+        "lastModified": 1657983936,
+        "narHash": "sha256-/Wmxg+Q5CTOTEquLKhmWJ1egT916KAL5PN7qL7LN1d4=",
         "owner": "ayman-albaz",
         "repo": "distributions",
-        "rev": "68a8cec146ad015f2c88f85a44e7f4567506d127",
+        "rev": "4f9a8de49e5ed9a8c0702ac34a7e0bc320a73a11",
         "type": "github"
       },
       "original": {
